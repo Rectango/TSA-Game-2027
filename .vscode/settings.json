@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "TSA Game 2027.slnx",
+    "dotnet.defaultSolution": "TSA-Game-2027.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
